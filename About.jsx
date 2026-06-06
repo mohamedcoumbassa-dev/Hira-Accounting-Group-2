@@ -4,7 +4,7 @@ const About = () => (
     <div className="container about-grid">
       <div className="portrait reveal">
         <div className="portrait-frame">
-          <img src="headshot.png" alt="Mohamed Coumbassa, CPA"/>
+          <img src="assets/headshot.png" alt="Mohamed Coumbassa, CPA"/>
         </div>
       </div>
       <div className="about-copy reveal">
