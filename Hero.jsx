@@ -28,7 +28,7 @@ const Hero = ({ onBook, onMessage }) => (
       </div>
       <div className="portrait reveal in">
         <div className="portrait-frame">
-          <img src="headshot.png" alt="Mohamed Coumbassa, CPA — founder of Hira Accounting"/>
+          <img src="assets/headshot.png" alt="Mohamed Coumbassa, CPA — founder of Hira Accounting"/>
         </div>
         <div className="portrait-badge">
           <div><b>Mohamed Coumbassa, CPA</b><div className="sub">Founder &amp; Bookkeeper</div></div>
