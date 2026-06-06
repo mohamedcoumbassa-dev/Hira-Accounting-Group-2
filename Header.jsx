@@ -16,7 +16,7 @@ const Header = ({ onBook, onMessage }) => {
   return (
     <header className={"header" + (scrolled ? " scrolled" : "")}>
       <div className="container header-inner">
-        <a href="#top" onClick={go("top")}><img className="header-logo" src="logo-horizontal-trans.png" alt="Hira Accounting Group"/></a>
+        <a href="#top" onClick={go("top")}><img className="header-logo" src="assets/logo-horizontal-trans.png" alt="Hira Accounting Group"/></a>
         <nav className="nav">
           {links.map(([t,id]) => <a key={id} href={"#"+id} onClick={go(id)}>{t}</a>)}
         </nav>
