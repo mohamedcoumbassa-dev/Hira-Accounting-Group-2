@@ -4,7 +4,7 @@ const Footer = ({ onMessage }) => (
     <div className="container">
       <div className="footer-inner">
         <div>
-          <img className="footer-logo" src="logo-horizontal-trans.png" alt="Hira Accounting Group" style={{filter:"brightness(0) invert(1)",opacity:.95}}/>
+          <img className="footer-logo" src="assets/logo-horizontal-trans.png" alt="Hira Accounting Group" style={{filter:"brightness(0) invert(1)",opacity:.95}}/>
           <p className="tagline">Clean books. Accurate numbers. Real communication. Clarity. Integrity. Growth.</p>
         </div>
         <div className="footer-col">
