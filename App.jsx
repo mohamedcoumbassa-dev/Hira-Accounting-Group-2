@@ -8,7 +8,7 @@
    https://calendar.app.google/XXXXXXXXXXXX).
    Leave as "" to fall back to the call/message modal.
    ────────────────────────────────────────────────────────────── */
-const BOOKING_URL = "";
+const BOOKING_URL = "https://calendar.app.google/xJw3AqWyh1pra56D7";
 
 const App = () => {
   const [modal, setModal] = React.useState(false);
